@@ -5,12 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Data Analyses
+- 🌱 I’m currently learning Data Analyses tools
+- 💬  I am happy to teach you what I know and eager to learn what you will offer
+
+👨👩 Social
+https://www.linkedin.com/in/hantekin/
+mailto: hantekin@gmail.com
+https://medium.com/@hantekin
+
+💻 Data Visualization
+
+💻 Python Libraries
+
+💻 Languages
+
+⚙ Tools
