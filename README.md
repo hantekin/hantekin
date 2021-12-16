@@ -1,5 +1,5 @@
 ### Hi there. I'm Gökhan..👋
-<br>
+<hr>
 
 - 🔭 I’m currently on the path of Data Science
 - 🌱 I’m currently learning everything🤣
@@ -17,7 +17,7 @@
 <br />
 <br />
 
-💻 Data Visualization
+<h3>💻 Data Visualization </h3>
 <br />
 <br />
 
