@@ -6,8 +6,9 @@ Hi there. I'm Gökhan...👋
 - 💬  I am happy to teach you what I know and eager to learn what you will offer
 
 👨👩 Social
+
 https://www.linkedin.com/in/hantekin/
-mailto: hantekin@gmail.com
+hantekin@gmail.com
 https://medium.com/@hantekin
 
 💻 Data Visualization
