@@ -9,7 +9,6 @@
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hantekin/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:hantekin@gmail.com)
-[![website](https://www.facebook.com)](https://www.facebook.com/hantekin)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hantekin" alt="hantekin" /> </p>
 
  ## 💻 Data Visualization
