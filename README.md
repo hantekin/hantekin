@@ -8,7 +8,9 @@ Hi there. I'm Gökhan...👋
 👨👩 Social
 
 https://www.linkedin.com/in/hantekin/
+
 hantekin@gmail.com
+
 https://medium.com/@hantekin
 
 💻 Data Visualization
