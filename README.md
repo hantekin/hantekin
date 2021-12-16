@@ -28,7 +28,7 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/hantekin/
-[gmail]: hantekin@gmail.com
+[gmail]: mailto: hantekin@gmail.com
 [facebook]: https://www.facebook.com/hantekin
 
 <!--
