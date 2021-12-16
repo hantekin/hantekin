@@ -1,8 +1,4 @@
-### Hi there. I'm Gökhan...👋 👋
-
-<!--
-**hantekin/hantekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there. I'm Gökhan...👋
 Hi there. I'm Gökhan...👋
 
 - 🔭 I’m currently working on Data Analyses
@@ -21,3 +17,8 @@ https://medium.com/@hantekin
 💻 Languages
 
 ⚙ Tools
+
+<!--
+**hantekin/hantekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
