@@ -2,7 +2,7 @@
 <hr>
 
 - 🔭 I’m on the path of Data Science
-- 🌱 I’m currently learning everything🤣
+- 🌱 I’m currently learning everythin:)
 - 💬 I am happy to teach you what I know and eager to learn what you will offer...
 
 ### 👨👩 Social Media:
