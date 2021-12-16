@@ -1,9 +1,9 @@
 ### Hi there. I'm Gökhan..👋
 <hr>
 
-- 🔭 I’m currently on the path of Data Science
+- 🔭 I’m on the path of Data Science
 - 🌱 I’m currently learning everything🤣
-- 💬 I am happy to teach you what I know and eager to learn what you will offer
+- 💬 I am happy to teach you what I know and eager to learn what you will offer...
 
 ### 👨👩 Social Media:
 
@@ -15,21 +15,20 @@
 
 <br />
 <br />
-<br />
 
 <h3>💻 Data Visualization </h3>
 <br />
 <br />
 
-💻 Python Libraries
+<h3>💻 Python Libraries</h3>
 <br />
 <br />
 
-💻 Languages
+<h3>💻 Languages</h3>
 <br />
 <br />
 
-⚙ Tools
+<h3>⚙ Tools</h3>
 <br />
 <br />
 
